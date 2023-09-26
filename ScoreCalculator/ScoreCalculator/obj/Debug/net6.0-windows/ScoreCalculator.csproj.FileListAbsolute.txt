@@ -1,0 +1,16 @@
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\bin\Debug\net6.0-windows\ScoreCalculator.exe
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\bin\Debug\net6.0-windows\ScoreCalculator.deps.json
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\bin\Debug\net6.0-windows\ScoreCalculator.runtimeconfig.json
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\bin\Debug\net6.0-windows\ScoreCalculator.dll
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\bin\Debug\net6.0-windows\ScoreCalculator.pdb
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0-windows\ScoreCalculator.Form1.resources
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0-windows\ScoreCalculator.csproj.GenerateResource.cache
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0-windows\ScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0-windows\ScoreCalculator.AssemblyInfoInputs.cache
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0-windows\ScoreCalculator.AssemblyInfo.cs
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0-windows\ScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0-windows\ScoreCalculator.dll
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0-windows\refint\ScoreCalculator.dll
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0-windows\ScoreCalculator.pdb
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0-windows\ScoreCalculator.genruntimeconfig.cache
+C:\Users\Junior\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0-windows\ref\ScoreCalculator.dll
